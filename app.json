@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app-filmes",
-    "slug": "my-app-filmes",
+    "name": "goFinances",
+    "slug": "goFinances",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
